@@ -11,5 +11,5 @@ labels:
 
   Learning Javascript is like getting thrown into the deep end of the pool by your dad even though he knows you can't swim. 
 <img class="ui medium left floated image" src="../images/babytoss.jpg">
-
+I have used Python, C, C++, and Scala, only Scala stands out from the crowd because of its support for FP(functional programming). 
 
