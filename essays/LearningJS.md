@@ -22,6 +22,8 @@ But in JavaScript, all we need to do is simply
 ```JavaScript
 var age = 20
 ```
-And, did you notice we don't need the semicolon? That's right, I didn't forget it, we just don't need it! Just like Python, it is added behind the scenes. 
 
-Additionally, we "swimming athletes" also go through a rigorous training called "WOD's"(work out of the day). So far I have had 2 WOD's, one in class and one with the TA. It was pretty easy but I foresee that it will get much more complicated in the future.  
+You can even assign strings and arrays without explicitly typing the data type. And, did you notice we don't need the semicolon? That's right, I didn't forget it, we just don't need it! Just like Python and Scala, it is added behind the scenes. Of course, there are also similarities among all the languages listed in this essay like compound assignments, operations, scopes, and loops all have the same concept with subtle syntax differences.
+
+Additionally, we "swimming athletes" also go through a rigorous training called "WOD's"(work out of the day). So far I have had 2 WOD's, one in class with the professor and one with the TA. It was pretty easy but I foresee that it will get much more complicated in the future!
+
