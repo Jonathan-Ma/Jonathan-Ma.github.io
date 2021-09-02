@@ -17,7 +17,7 @@ summary: My team developed a webpage for COVID tracking similar to UH Lumisight.
   <img class="ui image" src="../images/micromouse-SQUARELOGO.png
 </div>
 
-Source: <a href="https://github.com/darleneagbayani/ICS491"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/darleneagbayani/ICS491"><i class="large github icon"></i>Honushield</a>
 
 
 
