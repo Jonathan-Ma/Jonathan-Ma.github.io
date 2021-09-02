@@ -12,6 +12,7 @@ labels:
   Learning Javascript is like getting thrown into the deep end of the pool by your dad even though he knows you can't swim. 
 <img class="ui medium right floated image" src="../images/babytoss.jpg">
 Fortunately, there is freeCodeCamp that acts like a "pool noodle" so I don't actually drown. After about 140 exercises I kind of get the hang of it! 
+
   What I like the most is JS's type inference similar to Scala's. For example, in C, we need to indicate a data type like so: 
 ```C
 int age = 20;
@@ -23,3 +24,4 @@ var age = 20
 ```
 And, did you notice we don't need the semicolon? That's right, I didn't forget it, we just don't need it! Just like Python, it is added behind the scenes. 
 
+Additionally, we "swimming athletes" also go through a rigorous training called "WOD's"(work out of the day). So far I have had 2 WOD's, one in class and one with the TA. It was pretty easy but I foresee that it will get much more complicated in the future.  
