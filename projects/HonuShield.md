@@ -19,6 +19,7 @@ Honushield is an application similar to the UH Lumisight app implemented with Me
 <img class="right float" src="../images/honuhome.png" width="700" height="500">
 
 It allows students to register with their email and then they can upload their vaccination record.
+
 <img class="centered" src="../images/uploadV.png" width="600" height="500">
 
 There is also a daily check-in to see if they have any COVID symptoms.
