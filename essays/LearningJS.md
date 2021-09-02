@@ -20,5 +20,5 @@ int age = 20;
 But in JavaScript, all we need to do is simply
 ```JavaScript
 var age = 20
-```!
+```
 
