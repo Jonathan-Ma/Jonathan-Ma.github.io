@@ -13,8 +13,9 @@ labels:
 summary: My team developed an application for COVID tracking similar to UH Lumisight.
 ---
                            
-<img class="ui image" src="../images/SQUARE LOGO.png">
-Honushield is an application similar to the UH Lumisight app implemented with Meteor and JavaScript. It allows students to register with their email and then they can upload their vaccination record. The record is then saved on the database and can be presented at any time. The whole application was done in roughly two weeks starting in August 23. The deadline is in mid October so we hold pride in our speediness.
+<img class="centered aligned" src="../images/FULL_LOGO.png" width="350" height="100">
+Honushield is an application similar to the UH Lumisight app implemented with Meteor and JavaScript. It allows students to register with their email and then they can upload their vaccination record. The record is then saved on the database and can be accessed at any time. 
+<img class="right float" src="../images/honuhome.png"width="400" height="250">
 Source: <a href="https://github.com/darleneagbayani/ICS491"><i class="large github icon"></i>Honushield</a>
 
 
