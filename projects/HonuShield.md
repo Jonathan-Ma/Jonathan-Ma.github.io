@@ -26,7 +26,7 @@ There is also a daily check-in to see if they have any COVID symptoms.
 
 <img class="centered" src="../images/checkin.png" width="500" height="500">
 
-This project really challenged me because I do not have the tech stacks required. I am learning Meteor and JavaScript in another class taken concurrently and really feel pressured because I have to essentially self-teach Meteor and JavaScript in order to keep up. It is still a working progress but we have most of the application working.
+This project really challenged me because I do not have the tech stacks required. I am learning Meteor and JavaScript in another class taken concurrently and really feel pressured because I have to essentially self-teach Meteor and JavaScript in order to keep up. It is still a working progress but we have most of the application working, hopefully I can catch up as much as I can and contribute more to this project.
 
 Source: <a href="https://github.com/darleneagbayani/ICS491"><i class="large github icon"></i>Honushield</a>
 
