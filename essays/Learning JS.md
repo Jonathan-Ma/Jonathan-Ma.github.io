@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: JS first impression in a nutshell
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
 labels:
