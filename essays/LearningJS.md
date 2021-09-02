@@ -30,4 +30,5 @@ Additionally, we "swimming athletes" also go through a rigorous training called 
 
 Along with the WOD's, there are also modules that we have to keep track of. These modules provide helpful screencasts, articles, and lectures from the professor. And most importantly, modules also indicate deadlines for assignments which is very helpful in my opinion.
 
-All in all, the water was kind of cold at first, but I am sure after a few laps I can adjust to it. 
+All in all, the water was cold at first, but if you swim then you know that you have to keep moving and eventually your body will adapt. As Dory puts it: "Just keep swimming"! 
+
