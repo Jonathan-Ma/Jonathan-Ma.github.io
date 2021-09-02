@@ -13,12 +13,12 @@ labels:
 <img class="ui medium right floated image" src="../images/babytoss.jpg">
 Fortunately, there is freeCodeCamp that acts like a "pool noodle" so I don't actually drown. After about 140 exercises I kind of get the hang of it! 
   What I like the most is JS's type inference similar to Scala's. For example, in C, we need to indicate a data type like so: 
-```
+```C
 int age = 20;
 ``` 
 
-But in JavaScript, all we need to do is simply 
-```
+But in JavaScript, all we need to do is simply
+```JavaScript
 var age = 20
 ```!
 
