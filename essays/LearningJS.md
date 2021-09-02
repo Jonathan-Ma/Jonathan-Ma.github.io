@@ -21,4 +21,5 @@ But in JavaScript, all we need to do is simply
 ```JavaScript
 var age = 20
 ```
+And, did you notice we don't need the semicolon? That's right, I didn't forget it, we just don't need it! Just like Python, it is added behind the scenes. 
 
