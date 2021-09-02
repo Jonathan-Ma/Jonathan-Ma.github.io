@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/SQUARE LOGO.png
 title: Honushield
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
