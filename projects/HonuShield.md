@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/SQUARE LOGO.png
 title: Honushield
-permalink: projects/micromouse
+permalink: projects/HonuShield
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-25
 labels:
