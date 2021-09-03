@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/scala.png
+title: Scala By Example
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
