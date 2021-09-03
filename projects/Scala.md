@@ -23,6 +23,6 @@ Now look at the "functional style" quicksort Scala was made for
 <img class="centered" src="../images/ScalaStyle.png">
 Much shorter and cleaner right? This is only one example out of many how Scala differs from imperative langauges like Java and C.
 
-This is only the tip of the iceberg of what Scala is capable of and I'm afraid can't show you the whole wonders of Scala since I only know so much. Scala has a very steep learning curve but I hope to one day master this exquisite language and become a Scala developer.
+What I have shown you is only the tip of the iceberg of what Scala is capable of and I'm afraid can't explain to you the whole wonders of Scala since I only know so much. Scala has a very steep learning curve but I hope to one day master this exquisite language and become a Scala developer.
 
 Source: <a href="https://github.com/Jonathan-Ma/Scala-By-Example.git"><i class="large github icon"></i>Scala By Example</a>
