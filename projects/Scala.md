@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scala(2).png
+image: images/scala (2).png
 title: Scala By Example
 permalink: projects/Scala
 # All dates must be YYYY-MM-DD format!
