@@ -22,4 +22,4 @@ Scala is a very interesting language, it's parent language is Java and programs 
 Now look at the "functional style" Scala was made for
 <img class="centered" src="../images/ScalaStyle.png">
 
-<a href="https://github.com/Jonathan-Ma/Scala-By-Example.git"><i class="large github icon"></i>Scala By Example</a>
+Source: <a href="https://github.com/Jonathan-Ma/Scala-By-Example.git"><i class="large github icon"></i>Scala By Example</a>
