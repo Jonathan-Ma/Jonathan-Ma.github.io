@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/scala(2).png
 title: Scala By Example
-permalink: projects/vacay
+permalink: projects/Scala
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
