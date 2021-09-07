@@ -6,8 +6,8 @@ title: Ignorance vs Laziness
 date: 2021-09-06
 labels:
   - Asking Questions
-  - Learning
-  - Art
+  - 
+  - StackOverflow
 ---
 
 ## Is ignorance a bad thing?
@@ -18,3 +18,9 @@ Let's take our genius physicist for another example. Suppose he or she asks a qu
 
 ## I can't find the answer, now what?
 Well, now you gotta ask questions! But hold your horses, how to ask questions is really a art form. Asking "smart" questions well most likely get you a respond and more likely to get you an answer. On the contrary, if your question is full of grammar mistakes or not technical enough, how do you expect people understand your problem and help you? 
+Let's look at this persons' question on StackOverflow
+
+<img class="centered" src="../images/questions1.png">
+
+Just looking at the votes we can tell experts despise questions like these. <img class="right float" src="../images/downvote.png">
+
