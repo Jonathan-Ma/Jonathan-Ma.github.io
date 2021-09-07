@@ -6,7 +6,7 @@ title: Ignorance vs Laziness
 date: 2021-09-06
 labels:
   - Asking Questions
-  - 
+  - Art Form
   - StackOverflow
 ---
 
