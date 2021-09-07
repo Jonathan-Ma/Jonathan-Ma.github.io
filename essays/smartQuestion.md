@@ -33,7 +33,7 @@ Now let's look at another [question](https://stackoverflow.com/questions/289/how
 <img class="centered" src="../images/goodQH.png">
 <img class="centered" src="../images/goodQ.png">
 
-
+See how this person reflects the knowledge he currently possesses by showing the different ways his problem can be solved but not to his satisfaction? This makes him an ignorant person and not a lazy one. He clearly shows his lack of knowledge on a particular aspect. But by providing solutions that he knows shows that he has done research to the best of his abilities before asking.
 
 
 
