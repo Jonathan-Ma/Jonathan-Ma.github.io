@@ -17,10 +17,15 @@ I think the word "ignorant" is thrown around way too often now-a-days. It is alm
 Let's take our genius physicist for another example. Suppose he or she asks a question a very simple question regarding botany. As a genius botanist, would you think that they are stupid for asking such a easy question? I wouldn't think so, however, asking simple questions leaves me the impression that this individual is lazy. We live in a era that any information can be accessed at any moment. There really shouldn't be any reason for people to be asking questions that can be found with a simple Google search. 
 
 ## I can't find the answer, now what?
-Well, now you gotta ask questions! But hold your horses, how to ask questions is really a art form. Asking "smart" questions well most likely get you a respond and more likely to get you an answer. On the contrary, if your question is full of grammar mistakes or not technical enough, how do you expect people understand your problem and help you? 
+Well, now you gotta ask questions! But hold your horses, how to ask questions is really an art form. Asking "smart" questions well most likely get you an answer and more likely to get you a response. On the contrary, if your question is full of grammar mistakes or not technical enough, how do you expect people understand your problem and help you? 
 Let's look at this persons' question on StackOverflow
 
 <img class="centered" src="../images/question1.png">
 
-Just looking at the votes we can tell experts despise questions like these. <img class="right float" src="../images/downvote (2).png">
+Just looking at the votes we can tell people do not like this kind of questions. <img class="right float" src="../images/downvote (2).png">
+
+Questions like this is what I would say constitutes a person as lazy, or, as [Raymond](http://www.catb.org/esr/faqs/smart-questions.html) puts it: "a lazy sponge and wasting people's time". It clearly shows the lack of research because of how simple an answer to this question can be found online.
+
+
+
 
