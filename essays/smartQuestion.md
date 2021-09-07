@@ -35,7 +35,8 @@ Now let's look at another [question](https://stackoverflow.com/questions/289/how
 
 See how this person reflects the knowledge he currently possesses by showing the different ways his problem can be solved but not to his satisfaction? This makes him an ignorant person and not a lazy one. He clearly shows his lack of knowledge on a particular aspect. But by providing solutions that he knows shows that he has done research to the best of his abilities before asking.
 
-
+## Conclusion
+My mentor who is a senior Scala developer tells me to ask him any questions I may have, but over time, he expects me to learn how to ask questions. Because knowing how to ask the right question not only gets you an answer but also shows how much you already know. And that is exactly what Raymond conveys in his essay, albeit the way he puts it is kind of arrognant and harsh. Nonetheless, one should always do their own research and try the best of their abilities to solve the question before asking. And if you still don't get it, include what you have tried in your question so you don't come off as a "sponge".
 
 
 
