@@ -18,13 +18,20 @@ Let's take our genius physicist for another example. Suppose he or she asks a qu
 
 ## I can't find the answer, now what?
 Well, now you gotta ask questions! But hold your horses, how to ask questions is really an art form. Asking "smart" questions well most likely get you an answer and more likely to get you a response. On the contrary, if your question is full of grammar mistakes or not technical enough, how do you expect people understand your problem and help you? 
-Let's look at this persons' question on StackOverflow
+
+Let's look at this persons' [question](https://stackoverflow.com/questions/30910436/javascript-difference-between-and) on StackOverflow
 
 <img class="centered" src="../images/question1.png">
 
 Just looking at the votes we can tell people do not like this kind of questions. <img class="right float" src="../images/downvote (2).png">
 
 Questions like this is what I would say constitutes a person as lazy, or, as [Raymond](http://www.catb.org/esr/faqs/smart-questions.html) puts it: "a lazy sponge and wasting people's time". It clearly shows the lack of research because of how simple an answer to this question can be found online.
+
+## The smart way to ask questions
+Now let's look at another [question](https://stackoverflow.com/questions/289/how-do-you-sort-a-dictionary-by-value) on StackOverflow.
+
+<img class="centered" src="../images/goodQH.png">
+<img class="centered" src="../images/goodQ.png">
 
 
 
