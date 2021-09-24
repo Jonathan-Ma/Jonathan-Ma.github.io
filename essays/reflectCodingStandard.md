@@ -14,7 +14,7 @@ labels:
 
 There is a reason as to why programming languages are called languages. Like any language, we conform to grammar in order to convey our thoughts precisely and concisely. Without grammar and correct puntuations, we might mislead our audience, or our audience might misunderstand us. This is the same with programming languages. In the beginning we might write code that does not follow a certain standard, as long as it works, then it's good. But as we write more and more code and our programs starts to have dozens and hundreds, and most likely we'll reach a point where we are writing thousands of lines of code; coding standards starts to prevail. Programming is like surfing, if you can stand on the board and maneuver it, then essentially you know how to to surf. Yet, every surfer has their own style as to how to maneuver their board. Programming is the same, anyone can program, but everyone also has their own style. This style is what leads to issues, though. 
 
-<img class="ui small centered image" src="../images/assignment.jpg">
+<img class="ui medium centered image" src="../images/assignment.jpg">
 
 The fact is, once we step our foot into the professional world, these thousands of lines of code will most likely be written by multiple people at the same time. Therefore, we need a certain uniformity in order for our teammates to understand what we are writing and vice versa. However, unlike spoken languages, programming language "grammar" can vary. Usually set by the industry or by company. Whichever is the case, it is best to adhere to them, afterall, you are now a professional and you are obligated to follow the rules. 
 
