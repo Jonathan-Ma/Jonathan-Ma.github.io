@@ -10,8 +10,6 @@ labels:
   - Rules
 ---
 
-## What are coding standards and why do we need them??
-
 There is a reason as to why programming languages are called languages. Like any language, we conform to grammar in order to convey our thoughts precisely and concisely. Without grammar and correct puntuations, we might mislead our audience, or our audience might misunderstand us. This is the same with programming languages. In the beginning we might write code that does not follow a certain standard, as long as it works, then it's good. But as we write more and more code and our programs starts to have dozens and hundreds, and most likely we'll reach a point where we are writing thousands of lines of code; coding standards starts to prevail. Programming is like surfing, if you can stand on the board and maneuver it, then essentially you know how to to surf. Yet, every surfer has their own style as to how to maneuver their board. Programming is the same, anyone can program, but everyone also has their own style. This style is what leads to issues, though. 
 
 <img class="ui medium centered image" src="../images/assignment.jpg">
