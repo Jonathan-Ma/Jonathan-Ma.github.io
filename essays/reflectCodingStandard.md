@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Ignorance vs Laziness
+title: This Is The Way
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 labels:
   - Coding standards
-  - Learning
-  - Art
+  - Professional
+  - Rules
 ---
 
 ## What are coding standards and why do we need them??
