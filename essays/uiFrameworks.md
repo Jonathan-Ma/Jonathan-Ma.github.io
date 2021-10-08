@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Framework all the way
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-30
+date: 2021-10-07
 labels:
   - Frameworks
   - Semantic UI
@@ -14,8 +14,8 @@ Imagine you are building a house. Would you rather make your own materials to bu
 
 That is the general idea behind what a framework is. It serves to help you develop something that is totally unique without having to code some elements raw with only HTML and CSS. Building a webpage using raw HTML and CSS may end up looking like a page that was made ten years ago. Let's look an example of a webpage with and without frames works and I'll let you guess which one is which.
 
-<img class="ui small centered image" src="../images/withoutS.jpg">
-<img class="ui small centered image" src="../images/withSemantic.jpg">
+<img class="ui medium centered image" src="../images/withoutS.jpg">
+<img class="ui medium centered image" src="../images/withSemantic.jpg">
 
 It is not a fancy website but just the smallest differences make a big impact(if you guessed the top one is made without frameworks then you are right).
 
