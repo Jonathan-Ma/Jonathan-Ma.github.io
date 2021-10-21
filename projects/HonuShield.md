@@ -10,6 +10,7 @@ labels:
   - Meteor
   - JavaScript
   - Sementic-ui
+  - React
 summary: My team developed an application for COVID tracking similar to UH Lumisight.
 ---
                            
