@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dash.png
 title: Attack on Cholera
-permalink: projects/HonuShield
+permalink: projects/attackoncholera
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-20
 labels:
