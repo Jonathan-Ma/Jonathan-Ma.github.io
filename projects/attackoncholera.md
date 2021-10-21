@@ -1,7 +1,9 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
+image: images/dash.png
 title: Attack on Cholera
+permalink: projects/HonuShield
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-20
 labels:
