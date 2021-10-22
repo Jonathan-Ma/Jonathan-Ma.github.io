@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: Meteor Hackathon
+image: /images/petpal.png
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-21
 labels:
@@ -20,6 +21,7 @@ summary: A P2P app that aims to relieve stress of overcrowding animal shelters a
 ## Links
 - [Deployed app](https://petpal.meteorapp.com/)
 - [Github](https://github.com/team404-Meteor/PetPal)
+
 ## App Summary
 Our app is a P2P animal adoption site that aims to relieve stress on animal shelters and more importantly, the stress that animals go through in a shelter. Read more about the app functionlaity and features [here](https://team404-meteor.github.io/PetPal/)
 
