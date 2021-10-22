@@ -18,14 +18,14 @@ The cholera outbreak in London 1854 on Broad Street resulted in 616 deaths and t
 For this project, I attempt to use the data collected by Snow and visually represent what happened in 1854 Broad Street. By plotting simple table graphs that depict the attacks and deaths of victims to more complex GIS (geographic information system) that shows locations of deaths.
 
 ## Attacks and Deaths
-<img src="/images/ATTACK&D.jpg" width="600" height="700">
+<img src="/images/ATTACK&D.jpg" width="650" height="700">
 
 ## Fatalities by Age and Sex
 <img src='/images/FATALITY.jpg' width="650" height="600">
 
 ## UK Census
-<img src='/images/UK1.jpg' width="600" height="700">
-<img src='/images/UK2.jpg' width="600" height="700">
+<img src='/images/UK1.jpg' width="700" height="700">
+<img src='/images/UK2.jpg' width="700" height="700">
 
-#GIS
-<img src='/images/GIS.jpg' width="650" height="600">
+## GIS
+<img src='/images/GIS.jpg' width="700" height="600">
