@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
 title: Meteor Hackathon
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-21
@@ -8,6 +8,7 @@ labels:
   - Meteor
   - Hackathon
   - React
+summary: A P2P app that aims to relieve stress of overcrowding animal shelters and also the stress that animals go through being admitted to a shelter.
 ---
 
 ## Team Members
