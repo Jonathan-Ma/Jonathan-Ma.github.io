@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Meteor Hackathon
-image: /images/petpal.png
+image: images/petpal.png
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-21
 labels:
