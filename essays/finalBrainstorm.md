@@ -24,10 +24,10 @@ PS-Link has two user roles: the students(user) and the professors(admin). Both r
 
 Some possible mockup pages include:
 
-	Landing Page
-	Student Page
-	Professor Page
-	Contact Support
+- Landing Page
+- Student Page
+- Professor Page
+- Contact Support
 
 
 ## Use case ideas
