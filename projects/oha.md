@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/chatbot.png
-title: Honushield
+title: OHA Chatbot
 permalink: projects/OHA
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-28
@@ -14,7 +14,7 @@ labels:
 summary: A chatbot that helps users find what they are looking for on the Office of Hawaiian Affairs.
 ---
                            
-<img class="" src="../images/oha.jpg" width="350" height="100">
+<img class="" src="../images/oha.jpg">
 
 ## Team members
 - Arslan Rakhmankulov
@@ -23,7 +23,7 @@ summary: A chatbot that helps users find what they are looking for on the Office
 - Christian Siador
 
 ## Links
-- [Deployed app](https://honushield.meteorapp.com/#/)
+- [Deployed app](https://ohachatbot.meteorapp.com/#/)
 - [Github](https://github.com/darleneagbayani/ICS491)
 
 ## Overview
