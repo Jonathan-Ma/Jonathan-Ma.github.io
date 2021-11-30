@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/chatbot.png
 title: OHA Chatbot
-permalink: projects/OHA
+permalink: projects/chatbot
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-28
 labels:
