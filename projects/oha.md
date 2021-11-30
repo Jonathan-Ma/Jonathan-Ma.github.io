@@ -11,10 +11,8 @@ labels:
   - JavaScript
   - Dialogflow
   - Chatbot
-summary: A chatbot that helps users find what they are looking for on the Office of Hawaiian Affairs.
+summary: A chatbot that helps users navigate through Office of Hawaiian Affairs.
 ---
-                           
-<img class="" src="../images/oha.jpg">
 
 ## Team members
 - Arslan Rakhmankulov
@@ -24,20 +22,16 @@ summary: A chatbot that helps users find what they are looking for on the Office
 
 ## Links
 - [Deployed app](https://ohachatbot.meteorapp.com/#/)
-- [Github](https://github.com/darleneagbayani/ICS491)
+- [Github](https://github.com/HACC2021/TeamName404)
 
 ## Overview
-Honushield is an application similar to the UH Lumisight app implemented with Meteor and JavaScript. 
-<img class="right float" src="../images/honuhome.png" width="700" height="500">
+Office of Hawaiian Affairs works to improve the well-being of Native Hawaiians through advocacy, research, community engagement, land management, and the funding of community programs. OHA also offers a wide range of services, such as grants, scholarships, loans, Hawaiian Registry, legal consultation, etc. The problem is that OHA receives 13,000 calls annually. 11% of the calls never reach anyone and 30 percent of the calls require transfers. Therefore, with the help of a chatbot, users can have a higher chance of finding what they are looking for without waiting on a long waitlist or ending up calling the wrong department.
+<img class="" src="../images/oha.jpg">
 
-It allows students to register with their email and then they can upload their vaccination record.
-
-<img class="centered" src="../images/uploadV.png" width="500" height="500">
-
-There is also a daily check-in to see if they have any COVID symptoms.
-
-<img class="centered" src="../images/checkin.png" width="500" height="500">
-
-## Self-assessment
-Best way to sum up this project is that I got carried hard by my teammates. It was really challenging to me because I did not have the tech stacks required at the time. I am learning Meteor and JavaScript in another class taken concurrently and I have to essentially self-teach Meteor and JavaScript in advance in order to keep up. Fortunately, my teammates are really helpful and the project was over a period of two months. I was able to implement the landing page over a few days of no sleep and intense hair loss. One thing that I got stuck on the longest was learning how to use the stylesheet. I literally worked on the signup button for two days just to get the styling correct and navigate to other pages. But looking back at the code now it seems like an absolute breeze. Right now I am still lacking knowledge on the server side, but it is a relief that ICS will be going over MongoDB next week and to be honest, I am actually looking forward to it.
+## Contributions
+For this project I contributed to four things: <br/>
+(1) I remade the OHA website by using images from the original website because it was better to show how our chatbot looked if it were to be integrated onto their website rather than a plain white background.<br/> 
+(2) Dialogflow requires training phrases and responses in order for the chatbot to function, this is called an intent. For example, if a training phrase is "hi" and the response is "welcome", then when the user uses the chatbot and types "hi", he or she will get the response in turn. In other words, Dialogflow compares the users input to intent training phrases and finds the best match. Nonetheless, for every intent it is best to have several training phrases that is similar to each other in order to capture the most accurate response. For the "hi" example, I would have to add more training phrases like "hello", "aloha", "hey", etc. I made a total of 9 intents from OHA's most asked questions and implemented them as intents. <br/>
+(3) I wrote our teams Devpost story page which includes what the inspiration, overview, what it does, how it's built, and so on, you can check it out [here](https://devpost.com/software/oha-chatbot-team-name-404).<br/>
+(4) The last one was unfortunately not presented during judgement day nor was it finished, but it is something I am proud that I took the time to understand. On Dialogflow, you can easily integrate a what they call "telephony". It is identical to how you would make intents for user inputs, however, the difference is that this is a voicebot. You can choose from a list of Google hosted telephone numbers and when you call it, you can say something and Dialogflow matches it with the intent and a robot will reply with the response. Very cool and super easy to use!
 
