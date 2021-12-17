@@ -29,6 +29,6 @@ Users can set a time and write a short bio to indicate where and what time they 
 On the homepage users get random surfing buddy picks and also random surfing location picks.
 <img src="../images/final-home-page-pic.png" height='500' width='700'>
 ## Contributions
-For this project I worked both frontend and backend. 
+For this project I worked both frontend and backend. For the frontend part I implemented the look for the homepage, landing page, and navbar. The whole site looks horrendous but I gave it my best. For the backend portion I created the location collection for the homepage and also a helped with the user collection for the connect page. 
 
 
