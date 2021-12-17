@@ -28,6 +28,8 @@ Users can set a time and write a short bio to indicate where and what time they 
 <img src="../images/final-viewUser-page-pic.png" height='500' width='700'>
 On the homepage users get random surfing buddy picks and also random surfing location picks.
 <img src="../images/final-home-page-pic.png" height='500' width='700'>
+
+Our application uses real-time data retrieved from an api that collects information like weather and surf height from Surfline. Every number you see in the homepage and surf suggestions page are real data collected in real-time.
 ## Contributions
 For this project I worked both frontend and backend. For the frontend part I implemented the look for the homepage, landing page, and navbar. The whole site looks horrendous but I gave it my best. For the backend portion I created the location collection for the homepage and also a helped with the user collection for the connect page. 
 
