@@ -26,9 +26,9 @@ Surf Connect is an application that serves to help students from UH to find othe
 <img src="../images/final-connect-page-pic.png" height='500' width='700'>
 Users can set a time and write a short bio to indicate where and what time they want to go surfing as well as what type of buddies they are looking for.
 <img src="../images/final-viewUser-page-pic.png" height='500' width='700'>
-
+On the homepage users get random surfing buddy picks and also random surfing location picks.
+<img src="../images/final-home-page-pic" height='500' width='700'>
 ## Contributions
-
-
+For this project I worked both frontend and backend. 
 
 
