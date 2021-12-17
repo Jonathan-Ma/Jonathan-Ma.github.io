@@ -13,7 +13,7 @@ labels:
 summary: An application that helps to connect UH students who are interested in surfing.
 ---
                            
-
+<img src="../images/surf.jpg">
 ## Team members
 - [Charlie Robison](https://charlie-robison.github.io/)
 - [Ian Manzano](https://ianbm.github.io/) 
