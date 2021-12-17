@@ -13,7 +13,6 @@ labels:
 summary: An application that helps to connect UH students who are interested in surfing.
 ---
                            
-<img src="../images/surf.jpg">
 ## Team members
 - [Charlie Robison](https://charlie-robison.github.io/)
 - [Ian Manzano](https://ianbm.github.io/) 
@@ -24,9 +23,9 @@ summary: An application that helps to connect UH students who are interested in 
 
 ## Overview
 Surf Connect is an application that serves to help students from UH to find other student who want to go surfing at a certain period of the day.
-<img src="../images/final-connect-page-pic.png">
+<img src="../images/final-connect-page-pic.png" height='500' width='700'>
 Users can set a time and write a short bio to indicate where and what time they want to go surfing as well as what type of buddies they are looking for.
-<img src="../images/final-viewUser-page-pic.png">
+<img src="../images/final-viewUser-page-pic.png" height='500' width='700'>
 
 ## Contributions
 
