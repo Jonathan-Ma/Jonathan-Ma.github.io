@@ -25,6 +25,8 @@ summary: An application that helps to connect UH students who are interested in 
 ## Overview
 Surf Connect is an application that serves to help students from UH to find other student who want to go surfing at a certain period of the day.
 <img class="right float" src="../images/final-connect-page-pic.png" width="700" height="500">
+Users can set a time and write a short bio to indicate where and what time they want to go surfing as well as what type of buddies they are looking for.
+<img class="right float" src="../images/images/final-viewUser-page-pic.png">
 
 ## Contributions
 
