@@ -3,13 +3,13 @@ layout: project
 type: project
 image: images/surf.jpg
 title: Surf Connect
-permalink: projects/HonuShield
+permalink: projects/SurfConnect
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-16
 labels:
   - Meteor
   - JavaScript
-  - React
+  - Semantic UI React
 summary: An application that helps to connect UH students who are interested in surfing.
 ---
                            
